@@ -1,0 +1,5 @@
+export { default as Logo } from "./burger.png"
+export { default as bgpng } from "./bgpng1.png"
+export { default as addIcon } from "./addition.png"
+export { default as removeIcon } from "./remove-from-cart.png"
+export { default as AboutsUsImg } from "./[removal.ai]_tmp-6363d6919a456.png"

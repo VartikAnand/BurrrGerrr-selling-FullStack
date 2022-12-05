@@ -1,0 +1,12 @@
+.boxsd {
+    box-shadow: '0 1px 1px #ccc',
+}
+
+.hide-scroll-bar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.hide-scroll-bar::-webkit-scrollbar {
+    display: none;
+}
